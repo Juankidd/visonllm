@@ -20,7 +20,7 @@ El script carga una imagen local (`grafica2.png`), la codifica en base64 y la en
 
 ```bash
 pip install openai
-```bash
+bash```
 
 ##🔐 Configuración
 Asegúrate de tener una clave de API válida con acceso al modelo gpt-4-turbo con capacidades de visión.
